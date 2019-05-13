@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, ST=TO, L=Palmas, O=IFTO-PMW\x09, OU=Student, CN=IFTO-PMW\x09 CA/name=EasyRSA/emailAddress=diegobass123@icloud.com
+        Validity
+            Not Before: May 13 12:51:30 2019 GMT
+            Not After : May 10 12:51:30 2029 GMT
+        Subject: C=BR, ST=TO, L=Palmas, O=IFTO-PMW\x09, OU=Student, CN=servidor/name=EasyRSA/emailAddress=diegobass123@icloud.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b7:2e:2e:6c:92:4e:e5:ff:ff:d4:0c:fc:10:9c:
+                    c9:ba:aa:3e:ef:b8:53:d1:93:1b:91:f0:40:8a:9a:
+                    d5:dc:65:2e:41:d8:9b:b6:6f:84:77:95:b3:a3:b9:
+                    58:1f:ab:cf:41:54:82:9a:39:7e:e9:66:4f:b6:9f:
+                    cd:59:ce:fe:55:cf:e5:7d:fd:b5:ba:c7:46:44:3c:
+                    3a:98:5d:4d:e9:cd:bc:4a:e0:cd:fb:2c:cb:5f:0b:
+                    b9:70:da:f0:2a:c3:fd:63:4c:2f:73:fd:0c:30:2e:
+                    af:78:85:01:0f:3d:6f:43:d2:e7:1d:f6:a6:6e:16:
+                    5a:62:1b:24:cb:b3:95:7f:ab:36:9d:58:c2:3e:91:
+                    79:ee:4d:06:db:4f:ca:35:d6:06:f5:a9:71:6a:0d:
+                    7d:4a:c6:d8:fb:6d:61:50:4c:78:f4:73:b1:dd:78:
+                    85:6b:ae:97:a1:30:d8:af:47:38:1f:f7:b0:0c:16:
+                    53:d7:0e:56:03:ab:df:1f:9d:83:74:d6:0e:e4:06:
+                    f0:1e:5b:48:7a:42:1b:25:4f:3a:e8:a5:ba:12:9e:
+                    ec:f7:67:df:ce:0f:c6:e4:01:59:a5:c5:fe:0e:5f:
+                    0e:33:5e:25:ac:2e:9a:81:37:54:71:4a:59:6b:cd:
+                    8a:26:74:4c:3f:73:2e:5a:6b:93:be:75:63:a3:db:
+                    0f:39
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                8D:0E:E8:79:3F:FF:5E:71:16:7D:AC:78:EF:2F:FF:84:AD:69:CD:0B
+            X509v3 Authority Key Identifier: 
+                keyid:45:43:55:C5:75:11:74:8B:A0:4A:AE:C1:AD:30:0C:64:8C:3F:68:06
+                DirName:/C=BR/ST=TO/L=Palmas/O=IFTO-PMW\x09/OU=Student/CN=IFTO-PMW\x09 CA/name=EasyRSA/emailAddress=diegobass123@icloud.com
+                serial:A8:D7:0B:8D:38:D9:11:47
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:servidor
+    Signature Algorithm: sha256WithRSAEncryption
+         15:dc:de:7d:c9:d6:d1:f1:8e:3e:cd:cb:0b:e9:f1:61:04:68:
+         0d:1c:74:0b:9c:26:d8:c7:63:a3:24:6e:e8:b6:e9:7f:96:7d:
+         09:f2:b0:90:bc:19:5a:13:eb:f6:af:56:00:a9:c1:76:68:a7:
+         1b:06:0b:b9:4b:3a:17:d5:98:4e:96:bf:f6:f7:19:5b:d3:e4:
+         ae:66:f0:79:94:e3:91:db:e2:39:a7:c7:a0:37:53:b2:10:8e:
+         45:f7:ce:f7:c1:f0:62:7d:36:e9:36:32:cd:9c:38:4c:e6:de:
+         9a:50:d5:10:61:06:0b:ec:97:18:1f:28:ae:1d:8e:2b:cf:c7:
+         e6:95:10:50:d9:12:1d:b1:c7:81:bf:76:03:be:a3:6f:60:90:
+         4d:c8:e8:cd:57:e3:0b:84:78:e3:fb:0d:c3:15:6f:8c:c8:38:
+         ff:d1:7d:75:c4:dc:32:80:03:85:79:8b:52:f2:f4:0c:06:5a:
+         7a:c6:fd:db:d6:c6:fb:21:bf:58:7d:e4:32:fe:8c:aa:0f:50:
+         dc:63:68:99:25:7e:d8:f4:29:09:83:c4:0d:d8:91:71:d6:f6:
+         f2:a5:6e:ca:72:da:11:d7:e8:fc:dd:6a:68:5b:be:7a:d6:f4:
+         98:5b:37:80:f6:9c:f9:77:f6:cc:8d:00:99:98:b7:df:f2:5c:
+         a4:f2:a0:74
+-----BEGIN CERTIFICATE-----
+MIIFRzCCBC+gAwIBAgIBATANBgkqhkiG9w0BAQsFADCBojELMAkGA1UEBhMCQlIx
+CzAJBgNVBAgTAlRPMQ8wDQYDVQQHEwZQYWxtYXMxEjAQBgNVBAoUCUlGVE8tUE1X
+CTEQMA4GA1UECxMHU3R1ZGVudDEVMBMGA1UEAxQMSUZUTy1QTVcJIENBMRAwDgYD
+VQQpEwdFYXN5UlNBMSYwJAYJKoZIhvcNAQkBFhdkaWVnb2Jhc3MxMjNAaWNsb3Vk
+LmNvbTAeFw0xOTA1MTMxMjUxMzBaFw0yOTA1MTAxMjUxMzBaMIGeMQswCQYDVQQG
+EwJCUjELMAkGA1UECBMCVE8xDzANBgNVBAcTBlBhbG1hczESMBAGA1UEChQJSUZU
+Ty1QTVcJMRAwDgYDVQQLEwdTdHVkZW50MREwDwYDVQQDEwhzZXJ2aWRvcjEQMA4G
+A1UEKRMHRWFzeVJTQTEmMCQGCSqGSIb3DQEJARYXZGllZ29iYXNzMTIzQGljbG91
+ZC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3Li5skk7l///U
+DPwQnMm6qj7vuFPRkxuR8ECKmtXcZS5B2Ju2b4R3lbOjuVgfq89BVIKaOX7pZk+2
+n81Zzv5Vz+V9/bW6x0ZEPDqYXU3pzbxK4M37LMtfC7lw2vAqw/1jTC9z/QwwLq94
+hQEPPW9D0ucd9qZuFlpiGyTLs5V/qzadWMI+kXnuTQbbT8o11gb1qXFqDX1Kxtj7
+bWFQTHj0c7HdeIVrrpehMNivRzgf97AMFlPXDlYDq98fnYN01g7kBvAeW0h6Qhsl
+TzropboSnuz3Z9/OD8bkAVmlxf4OXw4zXiWsLpqBN1RxSllrzYomdEw/cy5aa5O+
+dWOj2w85AgMBAAGjggGIMIIBhDAJBgNVHRMEAjAAMBEGCWCGSAGG+EIBAQQEAwIG
+QDA0BglghkgBhvhCAQ0EJxYlRWFzeS1SU0EgR2VuZXJhdGVkIFNlcnZlciBDZXJ0
+aWZpY2F0ZTAdBgNVHQ4EFgQUjQ7oeT//XnEWfax47y//hK1pzQswgdcGA1UdIwSB
+zzCBzIAURUNVxXURdIugSq7BrTAMZIw/aAahgaikgaUwgaIxCzAJBgNVBAYTAkJS
+MQswCQYDVQQIEwJUTzEPMA0GA1UEBxMGUGFsbWFzMRIwEAYDVQQKFAlJRlRPLVBN
+VwkxEDAOBgNVBAsTB1N0dWRlbnQxFTATBgNVBAMUDElGVE8tUE1XCSBDQTEQMA4G
+A1UEKRMHRWFzeVJTQTEmMCQGCSqGSIb3DQEJARYXZGllZ29iYXNzMTIzQGljbG91
+ZC5jb22CCQCo1wuNONkRRzATBgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMC
+BaAwEwYDVR0RBAwwCoIIc2Vydmlkb3IwDQYJKoZIhvcNAQELBQADggEBABXc3n3J
+1tHxjj7Nywvp8WEEaA0cdAucJtjHY6Mkbui26X+WfQnysJC8GVoT6/avVgCpwXZo
+pxsGC7lLOhfVmE6Wv/b3GVvT5K5m8HmU45Hb4jmnx6A3U7IQjkX3zvfB8GJ9Nuk2
+Ms2cOEzm3ppQ1RBhBgvslxgfKK4djivPx+aVEFDZEh2xx4G/dgO+o29gkE3I6M1X
+4wuEeOP7DcMVb4zIOP/RfXXE3DKAA4V5i1Ly9AwGWnrG/dvWxvshv1h95DL+jKoP
+UNxjaJklftj0KQmDxA3YkXHW9vKlbspy2hHX6PzdamhbvnrW9JhbN4D2nPl39syN
+AJmYt9/yXKTyoHQ=
+-----END CERTIFICATE-----
