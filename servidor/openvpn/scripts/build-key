@@ -1,1 +1,8 @@
-/usr/share/easy-rsa/build-key
+#!/bin/sh
+
+# Make a certificate/private key pair using a locally generated
+# root certificate.
+#$EASY_RSA/pkitool --interact $*
+
+export EASY_RSA="${EASY_RSA:-.}"
+"$EASY_RSA/pkitool" $*

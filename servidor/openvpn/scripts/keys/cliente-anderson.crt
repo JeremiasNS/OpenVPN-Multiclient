@@ -1,0 +1,98 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 5 (0x5)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, ST=TO, L=Palmas, O=IFTO, OU=Multi_Client_server, CN=IFTO CA/name=EasyRSA/emailAddress=jeremiasneres23@gmail.com
+        Validity
+            Not Before: May 27 11:49:12 2019 GMT
+            Not After : May 24 11:49:12 2029 GMT
+        Subject: C=BR, ST=TO, L=Palmas, O=IFTO, OU=Multi_Client_server, CN=cliente-anderson/name=EasyRSA/emailAddress=jeremiasneres23@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bb:d7:13:80:9d:b7:81:f3:0d:44:6b:15:f3:d1:
+                    19:00:41:17:bb:09:0d:08:cb:62:d1:b8:b2:23:3c:
+                    94:34:31:a7:6d:99:f3:46:6c:2f:65:d1:91:89:33:
+                    9e:82:4a:76:52:f3:9f:f5:53:cd:ce:b8:6a:c5:f6:
+                    ea:40:eb:95:27:2e:9e:52:dc:7b:59:2b:f2:ff:ea:
+                    c1:b3:a5:53:75:57:ee:0d:e9:f3:d0:14:69:74:ca:
+                    5e:95:bf:79:3d:9b:bc:c8:da:96:76:04:96:ae:27:
+                    09:ed:66:ed:ce:ed:18:fc:46:6d:d2:f4:bd:8a:6e:
+                    1a:cb:30:66:b1:64:d9:9d:98:5e:f5:85:13:73:19:
+                    ff:48:39:6d:b9:9a:bd:c4:a0:be:79:36:c5:e3:da:
+                    f8:e2:21:05:bf:50:c9:f0:b4:8b:15:6d:a7:45:2d:
+                    4a:6c:e7:88:03:a1:93:15:17:ff:80:eb:4f:5e:ae:
+                    b2:eb:db:bf:34:1c:8f:d3:c4:2c:1b:64:d9:bb:58:
+                    d3:86:23:db:d6:45:12:65:7f:4d:49:ed:57:57:b6:
+                    c6:e2:23:a5:b2:58:d3:ec:0e:dd:0f:60:fd:30:f2:
+                    b4:b1:85:fa:69:5c:82:0e:3c:d3:f3:8e:d7:5d:96:
+                    3d:55:cf:4e:06:9c:70:ad:f0:d1:d8:d1:fa:ed:f6:
+                    a7:f7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                31:67:19:4E:E1:8F:B0:AE:2C:9D:E6:7A:CF:29:B1:73:60:81:AD:43
+            X509v3 Authority Key Identifier: 
+                keyid:B2:98:A2:62:C9:9B:E2:F2:C8:3F:33:3C:51:D3:61:96:35:15:A9:89
+                DirName:/C=BR/ST=TO/L=Palmas/O=IFTO/OU=Multi_Client_server/CN=IFTO CA/name=EasyRSA/emailAddress=jeremiasneres23@gmail.com
+                serial:AD:AE:D4:68:39:21:8C:7E
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:cliente-anderson
+    Signature Algorithm: sha256WithRSAEncryption
+         84:ae:78:9f:a2:54:46:8b:77:38:b9:1e:91:05:ad:3f:b8:95:
+         9a:6f:70:94:6b:2d:d7:24:1c:79:c6:09:25:bc:40:8f:a7:3d:
+         d5:fc:3e:cf:85:40:26:29:48:a5:d5:e7:3a:1a:ed:af:fc:e7:
+         2c:d0:6c:3c:77:64:f1:a1:e1:04:ba:df:83:3d:f9:5d:55:3c:
+         ea:fa:d4:9e:93:37:60:3b:79:82:8d:a5:fd:55:14:7d:53:ec:
+         58:9f:50:88:38:9e:f7:d1:96:af:26:ff:6e:99:33:fa:93:08:
+         e9:1f:06:1b:d9:3b:4f:15:f6:f1:76:ef:d4:35:f5:d7:01:6f:
+         b3:3e:20:c7:fc:00:4e:63:d2:07:d1:ae:f4:4d:c2:55:e7:ea:
+         59:7b:14:17:6a:f6:66:06:aa:f3:42:f2:25:e5:a1:91:58:6b:
+         e4:62:c6:6d:7e:87:61:88:86:56:0b:e4:e7:34:33:90:56:a4:
+         6f:73:ab:b0:21:60:2a:94:34:e0:43:f4:57:c9:ed:67:73:62:
+         7a:36:e6:dd:a1:db:b1:be:58:bd:85:72:fc:5b:74:92:7a:83:
+         b7:ff:a9:a4:5c:9f:c0:7c:98:b3:dc:8b:8b:72:11:a5:6e:e0:
+         da:0c:d2:5c:67:38:4f:7f:a8:2c:c7:9a:68:0f:d0:b2:54:d6:
+         0b:7e:b5:15
+-----BEGIN CERTIFICATE-----
+MIIFTjCCBDagAwIBAgIBBTANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQlIx
+CzAJBgNVBAgTAlRPMQ8wDQYDVQQHEwZQYWxtYXMxDTALBgNVBAoTBElGVE8xHDAa
+BgNVBAsUE011bHRpX0NsaWVudF9zZXJ2ZXIxEDAOBgNVBAMTB0lGVE8gQ0ExEDAO
+BgNVBCkTB0Vhc3lSU0ExKDAmBgkqhkiG9w0BCQEWGWplcmVtaWFzbmVyZXMyM0Bn
+bWFpbC5jb20wHhcNMTkwNTI3MTE0OTEyWhcNMjkwNTI0MTE0OTEyWjCBrzELMAkG
+A1UEBhMCQlIxCzAJBgNVBAgTAlRPMQ8wDQYDVQQHEwZQYWxtYXMxDTALBgNVBAoT
+BElGVE8xHDAaBgNVBAsUE011bHRpX0NsaWVudF9zZXJ2ZXIxGTAXBgNVBAMTEGNs
+aWVudGUtYW5kZXJzb24xEDAOBgNVBCkTB0Vhc3lSU0ExKDAmBgkqhkiG9w0BCQEW
+GWplcmVtaWFzbmVyZXMyM0BnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC71xOAnbeB8w1EaxXz0RkAQRe7CQ0Iy2LRuLIjPJQ0MadtmfNG
+bC9l0ZGJM56CSnZS85/1U83OuGrF9upA65UnLp5S3HtZK/L/6sGzpVN1V+4N6fPQ
+FGl0yl6Vv3k9m7zI2pZ2BJauJwntZu3O7Rj8Rm3S9L2KbhrLMGaxZNmdmF71hRNz
+Gf9IOW25mr3EoL55NsXj2vjiIQW/UMnwtIsVbadFLUps54gDoZMVF/+A609errLr
+2780HI/TxCwbZNm7WNOGI9vWRRJlf01J7VdXtsbiI6WyWNPsDt0PYP0w8rSxhfpp
+XIIOPNPzjtddlj1Vz04GnHCt8NHY0frt9qf3AgMBAAGjggF6MIIBdjAJBgNVHRME
+AjAAMC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2VydGlmaWNh
+dGUwHQYDVR0OBBYEFDFnGU7hj7CuLJ3mes8psXNgga1DMIHbBgNVHSMEgdMwgdCA
+FLKYomLJm+LyyD8zPFHTYZY1FamJoYGspIGpMIGmMQswCQYDVQQGEwJCUjELMAkG
+A1UECBMCVE8xDzANBgNVBAcTBlBhbG1hczENMAsGA1UEChMESUZUTzEcMBoGA1UE
+CxQTTXVsdGlfQ2xpZW50X3NlcnZlcjEQMA4GA1UEAxMHSUZUTyBDQTEQMA4GA1UE
+KRMHRWFzeVJTQTEoMCYGCSqGSIb3DQEJARYZamVyZW1pYXNuZXJlczIzQGdtYWls
+LmNvbYIJAK2u1Gg5IYx+MBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIH
+gDAbBgNVHREEFDASghBjbGllbnRlLWFuZGVyc29uMA0GCSqGSIb3DQEBCwUAA4IB
+AQCErnifolRGi3c4uR6RBa0/uJWab3CUay3XJBx5xgklvECPpz3V/D7PhUAmKUil
+1ec6Gu2v/Ocs0Gw8d2TxoeEEut+DPfldVTzq+tSekzdgO3mCjaX9VRR9U+xYn1CI
+OJ730ZavJv9umTP6kwjpHwYb2TtPFfbxdu/UNfXXAW+zPiDH/ABOY9IH0a70TcJV
+5+pZexQXavZmBqrzQvIl5aGRWGvkYsZtfodhiIZWC+TnNDOQVqRvc6uwIWAqlDTg
+Q/RXye1nc2J6Nubdoduxvli9hXL8W3SSeoO3/6mkXJ/AfJiz3IuLchGlbuDaDNJc
+ZzhPf6gsx5poD9CyVNYLfrUV
+-----END CERTIFICATE-----

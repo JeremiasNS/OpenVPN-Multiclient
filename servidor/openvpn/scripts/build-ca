@@ -1,1 +1,8 @@
-/usr/share/easy-rsa/build-ca
+#!/bin/sh
+
+#
+# Build a root certificate
+#
+
+export EASY_RSA="${EASY_RSA:-.}"
+"$EASY_RSA/pkitool" --interact --initca $*
